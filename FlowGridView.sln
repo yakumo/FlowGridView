@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "blob", "blob", "{3F6011DB-D935-4507-BE8F-C0174CFE213C}"
 	ProjectSection(SolutionItems) = preProject
 		FlowGridView.nuspec = FlowGridView.nuspec
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
