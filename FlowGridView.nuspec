@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FlowGridView</id>
+    <version>1.0.0</version>
+    <title>FlowGridView - Xamarin.Forms</title>
+    <authors>yakumo</authors>
+    <owners>yakumo</owners>
+    <licenseUrl>https://msdn.microsoft.com/library/gg592960.aspx</licenseUrl>
+    <projectUrl>https://github.com/yakumo/FlowGridView</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>FlowGridView - Xamarin.Forms GridView</description>
+    <copyright>Copyright (c) yakumo 2016</copyright>
+    <tags>xamarin xamarin.forms</tags>
+    <dependencies>
+      <group targetFramework="net45"/>
+      <group targetFramework="uap"/>
+      <group>
+        <dependency id="Xamarin.Forms" version="2.0.0.6480" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
